@@ -1189,3 +1189,11 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+
+.texto{
+  padding: 25px;
+  padding-bottom: 0px;
+  top: auto;
+  left: auto;
+}
